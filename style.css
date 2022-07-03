@@ -13,7 +13,7 @@ h1 {
 
 
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 150px;
 
@@ -48,3 +48,5 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experience-area {}
